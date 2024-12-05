@@ -28,21 +28,18 @@ complainproject/
 🚦 How to Run
 Clone the repository:
 
-bash
-Copy code
 git clone https://github.com/Aakashkandel/complainproject.git  
 Install dependencies:
 
 Navigate to the client/ and server/ folders and run:
-bash
-Copy code
+
 npm install  
 Run the project:
 
 Start the server and frontend simultaneously:
-bash
-Copy code
-npm start  
+
+npm start (client)
+nodemon start(server)
 Access the app:
 
 Open your browser and visit: http://localhost:3000
